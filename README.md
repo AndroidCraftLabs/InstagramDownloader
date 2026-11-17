@@ -82,7 +82,6 @@ Users can download content using supported link-sharing and URL-based workflows 
  <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/06.jpg?raw=true"  width="200" /></a>
  <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/07.jpg?raw=true"  width="200" /></a>
  <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/08.jpg?raw=true"  width="200" /></a>
->
 </p>
 
 <!--

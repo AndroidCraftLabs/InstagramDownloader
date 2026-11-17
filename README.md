@@ -9,7 +9,6 @@ Whether you need an **Instagram Reels Downloader**, **Instagram Story Saver**, o
 <div align="center">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndroidCraftLabs/InstagramDownloader)
-<a href="https://play.google.com/store/search?q=issave&c=apps"><img src="https://img.shields.io/badge/Beta Tester-PlayStore Apps-red"></a>
 <a href="mailto:developer.friendly.box@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 </div>
 
@@ -38,6 +37,10 @@ Users can download content using supported link-sharing and URL-based workflows 
 - **Instagram Photo Downloader** – Save Instagram photos and images directly to your gallery.
 - **Multiple Media Download** – Download multiple supported media items.
 - **Batch Download** – Save multiple media files conveniently.
+- **IGTV Video Downloader** - IGTV video downloader.
+- **Extract Audio from Video** - Extract audio from the video directly from the app.
+- **Set Live Wallpaper** - Set live wallpaper of your downloaded video from the app.
+- **Download without Leaving Instagram** - Download photos and videos without leaving Instagram on the fly.
 - **Built-in Video Player** – Watch downloaded videos without leaving the application.
 - **Image Viewer** – View saved Instagram photos inside the app.
 - **Download History** – Access your previously downloaded media.

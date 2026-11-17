@@ -84,13 +84,23 @@ Users can download content using supported link-sharing and URL-based workflows 
  <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/IGSaver_Screenshots_08.jpg?raw=true"  width="200" /></a>
 </p>
 
-<!--
-<p align="center">
-  <img src="screenshots/home.png" width="220" />
-  <img src="screenshots/download.png" width="220" />
-  <img src="screenshots/downloads.png" width="220" />
-</p>
--->
+🚀 For Sale: Kotlin Android Source Code! 🚀
+
+Looking to kickstart your app project? I’m selling my Kotlin-based Android source code! 💻✨ 
+
+✅ Well-documented  
+✅ Easy to customize  
+✅ Ready for integration  
+Reach out for details and let's bring your app idea to life! 📱💡
+
+
+#### What You Get
+
+- Full Android App Source Code with AdMob Ads.
+- Full Android App Source Code with In-App Purchase.
+- Android Project Documentation.
+- Project Compile With 16kb page size.
+- Projects `minSdk = 24` && `targetSdk = 37`.
 
 ## Tech Stack
 
@@ -132,3 +142,31 @@ Users are responsible for ensuring they have the necessary rights and permission
 **Built by AndroidCraft Labs**
 
 *Code Ideas. Craft Impact.*
+
+
+### Copyright & License
+
+© 2026 Averon. All rights reserved.
+
+This software ("Facebook Video Downloader App") is the exclusive property of Averon. It is licensed, not sold, and can only be acquired directly by contacting Averon. The app is not available through any third-party websites or platforms.
+
+**License Terms:**
+
+1. **Authorized Use**: Upon purchase, you are granted a license to use the app’s source code to create your own application and publish it on the Google Play Store.
+
+2. **No Redistribution of Source Code**: The source code of this app is strictly for personal use only. You are prohibited from sharing, reselling, distributing, or making the source code available to others in any form.
+
+3. **No Unauthorized Sharing**: You may not share, sublicense, or offer the code to any third party, including via websites, forums, or any other means.
+
+4. **No Resale**: Selling or transferring the source code, either modified or unmodified, is strictly prohibited.
+
+5. **Modifications**: You may modify the source code for your personal use in creating your application, but the modified code must also not be shared, sold, or distributed.
+
+6. **Compliance**: By using this software, you agree to adhere to all applicable copyright and licensing laws. Violation of these terms may result in legal action.
+
+For further inquiries or to obtain a license, please contact developer.friendly.box@gmail.com
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

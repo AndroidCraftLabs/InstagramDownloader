@@ -74,14 +74,14 @@ Users can download content using supported link-sharing and URL-based workflows 
 ## Screenshots
 
 <p align="center">
- <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/01.jpg?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/IGSaver_Screenshots_01.jpg?raw=true"  width="200" /></a>
  <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/02.jpg?raw=true"  width="200" /></a>
  <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/03.jpg?raw=true"  width="200" /></a>
  <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/04.jpg?raw=true"  width="200" /></a>
  <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/05.jpg?raw=true"  width="200" /></a>
  <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/06.jpg?raw=true"  width="200" /></a>
- <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/07.jpg?raw=true"  width="200" /></a>
- <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/08.jpg?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/IGSaver_Screenshots_07.jpg?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/InstagramDownloader/blob/main/screenshots/IGSaver_Screenshots_08.jpg?raw=true"  width="200" /></a>
 </p>
 
 <!--
